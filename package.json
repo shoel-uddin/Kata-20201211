@@ -1,0 +1,23 @@
+{
+  "name": "Kata-20201211",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoel-uddin/Kata-20201211.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoel-uddin/Kata-20201211/issues"
+  },
+  "homepage": "https://github.com/shoel-uddin/Kata-20201211#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
